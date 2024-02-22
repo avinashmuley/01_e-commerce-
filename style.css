@@ -111,6 +111,7 @@ body {
 
 #hero{
   background-image: url("img/hero4.png") ;
+  background-color: #E3E6F3;
   height:90vh ;
   width: 100%;
   background-size: cover;
